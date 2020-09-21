@@ -1,2 +1,5 @@
-# Semester2ScriptingProject
-A scripting project teaching us the fundamentals of automation. Scripts are run on the target host to set up a fully functional linux-based router.
+
+
+A collection of bash scripts to automate a fully functional linux-based router.
+
+Usage: bash execute.sh
